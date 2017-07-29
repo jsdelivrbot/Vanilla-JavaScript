@@ -1,4 +1,4 @@
-Bookmarker project
+# Bookmarker project
 
 Adds websites to bookmarks using LocalStorage
 
